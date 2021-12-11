@@ -11,13 +11,6 @@ Productive and Efficient Task/Project Manager Discord Bot
 - Pomodoro timers
 - Get daily inspirational quotes
 # How to use it
-Welcome to the productivity manager! We currently offer systems to deal with:
-
-1. tasks
-2. meetings
-3. reminders
-4. pomodoro timers
-5. daily inspiration
 
 With this bot, you can begin commands with the prefix **!** and separate arguments with **, ** (a comma followed by a space).
 
