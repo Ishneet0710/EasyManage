@@ -12,8 +12,6 @@ Productive and Efficient Task/Project Manager Discord Bot
 - Get daily inspirational quotes
 # How to use it
 
-With this bot, you can begin commands with the prefix **!** and separate arguments with **, ** (a comma followed by a space).
-
 ### tasks
 
 ##### assign a task:
