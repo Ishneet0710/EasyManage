@@ -54,3 +54,26 @@ you can get a summary of your upcoming meetings daily! just use this command in 
 
 `!set_summary_channel`
 
+### pomodoro
+
+##### add no. of sessions for pomodoro
+
+`!pomodoro @person1#1234 sessions`
+
+### quote
+
+##### get quote
+
+`!quote`
+
+
+### reminder
+
+##### add reminder
+
+`!reminder time, title`
+- time must be in minutes
+- after the time is up, reminder will pop up
+
+
+
